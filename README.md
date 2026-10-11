@@ -1,1 +1,1 @@
-# HospitalSystem
+# Hospital
